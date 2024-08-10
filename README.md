@@ -17,3 +17,6 @@ As part of my summer training, I am required to implement and test HTTP requests
    - Use "r.html" for the "right" command.
 
 This image shows you my experiment, where I used the link above, and it printed 'Forward' on the screen:
+![لقطة الشاشة 2024-08-10 181254](https://github.com/user-attachments/assets/a856a644-37ef-49b6-889e-d6e981c3838b)
+
+Try changing the last letter of the URL to see how it controls the ESP according to your needs! You can visit [Wokwi](https://wokwi.com/projects/393020133767191553) to test the code and modify the URL as needed.

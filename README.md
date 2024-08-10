@@ -16,3 +16,4 @@ As part of my summer training, I am required to implement and test HTTP requests
    - Use "l.html" for the "left" command.
    - Use "r.html" for the "right" command.
 
+This image shows you my experiment, where I used the link above, and it printed 'Forward' on the screen:
